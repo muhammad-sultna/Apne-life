@@ -1,2 +1,4 @@
 # Apne-life
-This is my first git repository. MY name is Muhammad Sultan.
+Name : Muhammad Sultan
+<br>
+Father Name :Ghulam Shabbir
